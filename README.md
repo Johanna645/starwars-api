@@ -1,3 +1,5 @@
+This is an excercise with react-router to make a single page app that shows links to dynamic pages of a single star wars person, details fetched from star wars api (swapi).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
